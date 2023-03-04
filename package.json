@@ -1,9 +1,7 @@
 {
-  "name": "reveal.js",
-  "version": "4.4.0",
-  "description": "The HTML Presentation Framework",
-  "homepage": "https://revealjs.com",
-  "subdomain": "revealjs",
+  "name": "tom-neal-front-end",
+  "version": "1",
+  "description": "Project Sample",
   "main": "dist/reveal.js",
   "module": "dist/reveal.esm.js",
   "license": "MIT",
@@ -13,13 +11,12 @@
     "build": "gulp build"
   },
   "author": {
-    "name": "Hakim El Hattab",
-    "email": "hakim.elhattab@gmail.com",
-    "web": "https://hakim.se"
+    "name": "Tom Neal",
+    "email": "thomasevanneal@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/hakimel/reveal.js.git"
+    "url": "git://github.com/thomasneal/tom-neal-front-end.git"
   },
   "engines": {
     "node": ">=10.0.0"
