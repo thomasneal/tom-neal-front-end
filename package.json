@@ -97,5 +97,8 @@
       "no-eq-null": 2,
       "no-unused-expressions": 0
     }
+  },
+  "dependencies": {
+    "@parttio/simple-timeline": "^2.0.5"
   }
 }
